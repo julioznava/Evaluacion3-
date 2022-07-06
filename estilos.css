@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant&family=Pacifico&family=Yellowtail&display=swap');
+
+body{
+    background-color: #E2E3E3;
+    /*background-image: url(IMG/repeat.png);*/
+    background-size: 150px 150px;
+    background-repeat: repeat;
+    padding: 0 1rem;
+    
+}
+
+article{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #68D6F0;
+}
+footer{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #40B1CB;
+    text-align: right;
+}
+a{
+    padding: right 0;;
+    text-align: right;
+
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    text-align: center;
+}
+
+h4{
+    color: #45C76A;
+
+}
+button{
+    color: blue;
+}
+h1{
+    text-align: left;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+
+}
+tr , td{
+    text-align: center;
+    font-size: 20px;
+    border: solid 1px rgb(8, 5, 5);
+    padding: 5px;
+}
+h3{
+    color: black;
+}
+
+label{
+    font-size:large;
+    color: black;
+}
+
+form{
+    background-color: white;
+}
+
+.form-check-label {
+    text-align: right;
+}
+
+.carousel{
+    opacity: 80%;
+    color: #4D4D4D;
+}
+
+.plantis {
+    font-size: 50px;
+    margin-right: 200px;
+    padding-right: 20px;
+    text-decoration: #40B1CB;
+    position: inherit; left: 10%;
+}
+
+.subtitulo {
+    color: black;
+    font-size: 25px;
+    position: inherit; left: 0.1em; top: 3px;
+    font-family: Yellowtail, cursive;
+}
+
+.navbar-brand {
+    position: relative; right: 48%; top: 10%;
+}
+
+.nav-link:hover{
+    color:  red;
+}
+
+.imagenplaneta{
+    width: 100px;
+    padding: 20px;
+    position: inherit; left: 500px;
+}
+
+.parrafo{
+    text-align: center;
+    font-family: "Assistant SemiBold"
+}
+
+.plantdead{
+    width: 300px;
+    margin: 40px;
+}
+
+.container-construccion{
+    text-align: center;
+}
+
+.anuncio{
+    font-size: 60px;
+    text-align: center;
+    color: #2CC0AC;
+    font-family: 'Yellowtail', cursive;
+}
+
+p {
+    font-family: "Assistant SemiBold";
+}
